@@ -57,12 +57,12 @@ nav ul li a {
   justify-content: center;
   align-content: center;
   color: var(--white);
-  font-size: 36px;
 }
 
 .hero h2 {
   text-align: center;
   color: var(--white);
+  font-size: 36px;
 }
 
 main {
