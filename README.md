@@ -4,6 +4,30 @@ https://drew990.github.io/UCBerkeley-Portfolio/
 
 # About The Project
 
+[Screen Shot of the Website](https://photos.app.goo.gl/zmGPG3pEAzbHrrJn6 "Test Title")
+
+In Module 2 challenge, we are to create a portfolio about ourselves that tells us a bit of ourselves, previous work, and how to contact us. To create this, we have to use the best practice of HTML, and CSS to make it appealing as well consider users looking at our portfolio from either tablet or mobile devices.
+
+## Practices That'll Be Use
+
+Before diving into the code, lets discuss practices that'll be use in the code.
+
+Starting with HTML, you'll see throughout the the entire the code that they are label with `<nav>`, ` <title>`, ` <main>`,` <sections>`, etc. This is so the website is accessible to everyone but also friendly to search engines for my website to come up more often. Not only that, if another programmer were to look at the code, they can easily identify which part of the code goes where.
+
+CSS follows a universal styling where repeating styles will be replaced with variables so instead of wanting to change one style at a time, you can very easily change the color, or number and the rest will follow. HTML semantics will also have a universal styling to them. For example, the `<body>` semantic has a secondary color variable attached to it, so if I create another page with the `<body>` semantic, then every variable or styling that is defined in the CSS Body, it'll automatically change it.
+
+Here's Why We Use These Practices
+
+- Better Efficiency
+- Responsive To All Devices
+- Appealing to Users
+- Friendlier to Search Engines
+- Easily Identify the Code
+
+# Author
+
+Andrew Banagas
+
 <!-- # 02 Advanced CSS: Portfolio
 
 Welcome to this week's Challenge! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses.
