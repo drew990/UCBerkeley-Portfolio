@@ -12,7 +12,7 @@ In Module 2 challenge, we are to create a portfolio about ourselves that tells u
 
 Before diving into the code, lets discuss practices that'll be use in the code.
 
-Starting with HTML, you'll see throughout the the entire the code that they are label with `<nav>`, ` <title>`, ` <main>`,` <sections>`, etc. This is so the website is accessible to everyone but also friendly to search engines for my website to come up more often. Not only that, if another programmer were to look at the code, they can easily identify which part of the code goes where.
+Starting with HTML, you'll see throughout the the entire the code that they are label with `<nav>`, `<title>`, `<main>`,`<sections>`, etc. This is so the website is accessible to everyone but also friendly to search engines for my website to come up more often. Not only that, if another programmer were to look at the code, they can easily identify which part of the code goes where.
 
 CSS follows a universal styling where repeating styles will be replaced with variables so instead of wanting to change one style at a time, you can very easily change the color, or number and the rest will follow. HTML semantics will also have a universal styling to them. For example, the `<body>` semantic has a secondary color variable attached to it, so if I create another page with the `<body>` semantic, then every variable or styling that is defined in the CSS Body, it'll automatically change it.
 
